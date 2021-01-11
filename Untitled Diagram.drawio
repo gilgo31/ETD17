@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T19:09:58.282Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 OPR/73.0.3856.329" etag="eSYAbYBDPPY5bGH9jCSg" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T19:12:50.047Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 OPR/73.0.3856.329" etag="2GDkUbmWBAvKa-C7Tyr9" version="14.1.9" type="github">
   <diagram id="ZuFl4YgR_q6LDrZBnHnC" name="Page-1">
     <mxGraphModel dx="1062" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,17 +66,6 @@
             <mxPoint x="440" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SWW15JjgIUj6yYLhJP38-2" value="" style="endArrow=none;html=1;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SWW15JjgIUj6yYLhJP38-34">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="780" y="408" as="sourcePoint" />
-            <mxPoint x="694.9999999999998" y="407.96000000000004" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SWW15JjgIUj6yYLhJP38-40" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SWW15JjgIUj6yYLhJP38-2">
-          <mxGeometry x="-0.7728" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SWW15JjgIUj6yYLhJP38-7" value="V Mesure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="570" width="70" height="20" as="geometry" />
         </mxCell>
@@ -126,6 +115,11 @@
         </mxCell>
         <mxCell id="SWW15JjgIUj6yYLhJP38-33" value="x 50" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SWW15JjgIUj6yYLhJP38-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SWW15JjgIUj6yYLhJP38-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="408" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SWW15JjgIUj6yYLhJP38-34" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.p-channel_mosfet_1;rotation=90;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="637.68" y="392.32" width="44.64" height="49.29" as="geometry" />
@@ -226,6 +220,12 @@
         </mxCell>
         <mxCell id="SWW15JjgIUj6yYLhJP38-83" value="B.P. Réarmement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="349.99999999999994" y="827.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SWW15JjgIUj6yYLhJP38-85" value="V _Out" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="410" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SWW15JjgIUj6yYLhJP38-86" value="V _Alim&lt;br&gt;19V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="395" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
