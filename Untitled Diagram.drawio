@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T19:06:31.588Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 OPR/73.0.3856.329" etag="SPpGIiztrC5yOfDVt254" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T19:09:58.282Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 OPR/73.0.3856.329" etag="eSYAbYBDPPY5bGH9jCSg" version="14.1.9" type="github">
   <diagram id="ZuFl4YgR_q6LDrZBnHnC" name="Page-1">
-    <mxGraphModel dx="607" dy="312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
           <mxGeometry x="140" y="750" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SWW15JjgIUj6yYLhJP38-25" value="0V / 9V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="710" width="50" height="20" as="geometry" />
+          <mxGeometry x="300" y="705" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SWW15JjgIUj6yYLhJP38-26" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.operational_amp_1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="477.5" width="40" height="55" as="geometry" />
@@ -217,6 +217,15 @@
         </mxCell>
         <mxCell id="SWW15JjgIUj6yYLhJP38-78" value="3V" style="verticalLabelPosition=top;verticalAlign=bottom;shape=mxgraph.electrical.signal_sources.current_flow;shadow=0;dashed=0;align=center;strokeWidth=1;fontSize=10;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="500" y="773.75" width="20" height="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SWW15JjgIUj6yYLhJP38-81" value="(ON)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SWW15JjgIUj6yYLhJP38-82" value="(OFF)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SWW15JjgIUj6yYLhJP38-83" value="B.P. Réarmement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="349.99999999999994" y="827.5" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
